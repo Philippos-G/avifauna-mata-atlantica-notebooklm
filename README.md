@@ -73,10 +73,10 @@ Os materiais foram inseridos no NotebookLM com o objetivo de:
 
 # Engenharia de Prompts
 
-## Prompts utilizados
+## Teste de Prompts
 
 - "Quais são as principais aves endêmicas da Mata Atlântica no estado do Rio de Janeiro?"
-- "Agora me diga quais são as aves mais populares do Rio de Janeiro, incluindo as endêmicas ou exóticas ou aquelas que podem ocorrer não somente no Estado, mas também em todo o país. Seja direto ao ponto."
+- "Quais são as aves mais populares do Rio de Janeiro, incluindo as endêmicas e exóticas."
 - "Explique os impactos da fragmentação florestal sobre a avifauna."
 - "Crie um resumo técnico sobre biodiversidade de aves na Mata Atlântica."
 - "Quais metodologias de monitoramento de aves são citadas nas fontes?"
@@ -88,8 +88,6 @@ Os materiais foram inseridos no NotebookLM com o objetivo de:
 # Miniguia de Estudos
 
 ## Conceitos Principais
-
-
 
 ### Principais assuntos aprendidos
 
@@ -158,5 +156,5 @@ O projeto demonstrou o potencial do NotebookLM como ferramenta de apoio ao estud
 
 ## Troubleshooting
 
-- A IA pode enrolar um pouco para responder as perguntas e não indo direto ao ponto.
+- A IA pode enrolar um pouco para responder as perguntas e não ir direto ao ponto.
 - IA também estende o assunto respondendo perguntas que não foram solicitadas.
